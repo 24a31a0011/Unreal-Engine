@@ -90,3 +90,4 @@
 [25500:27324:1029/193004.305:WARNING:stun_port.cc(442)] Port[1ca2800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
 [25500:27324:1029/193004.305:WARNING:stun_port.cc(442)] Port[1ca3000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
 [25500:27324:1029/193004.305:WARNING:stun_port.cc(442)] Port[1ca0800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[27216:15032:1029/193649.669:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
